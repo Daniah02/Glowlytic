@@ -12,7 +12,7 @@ Glowlytic is an AI-powered skincare product recommendation system designed to he
 - Daniah Alkathiri
 - Nada Mahzari
 - Najla Aljarba
-- Daniah Alowifier
+- Dania Alowaifeer
 
 
 ## 🎯 Motivation
