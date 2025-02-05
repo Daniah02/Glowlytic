@@ -1,4 +1,4 @@
-# Glowlytic
+
 ![Alt text](GlowlyticLogo.png)
 
 # 🌟 Glowlytic – Skincare Product Recommendation System
