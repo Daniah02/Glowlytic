@@ -24,9 +24,9 @@ Many people struggle to choose the right skincare products due to the **overwhel
 Our motivation for this project is to build a **personalized, intelligent skincare recommendation system** that suggests products based on user inputs, helping users make better-informed skincare decisions.
 
 
-📊 Dataset Attribution
-This project uses a dataset created by Dwi Ayu Nouvalina , licensed under the MIT License.
-Source: 🔗 GitHub Repository .
+## 📊 Dataset Attribution
+This project uses a dataset created by **Dwi Ayu Nouvalina**, licensed under the MIT License.  
+Source: [🔗 GitHub Repository](https://github.com/Yunanouv/Skin-Care-Recommender-System) .
 
 
 🔹 *Glowlytic – Making Skincare Smarter!* ✨
